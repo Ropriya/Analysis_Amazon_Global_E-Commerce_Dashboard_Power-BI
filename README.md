@@ -24,11 +24,11 @@ The dashboard is structured to facilitate detailed exploration across several cr
 •	Rating & Review Sentiment: Using text or aggregated data to understand product satisfaction.
 
 🛠️ Tools and Technologies
-Component	        Tool / Language	                                  Purpose
-Data Visualization	Power BI Desktop	                         The primary tool used for report design, visual creation, and publishing.
-Data Manipulation	DAX (Data Analysis Expressions)	                 Used for creating complex metrics, measures, and calculated fields within the data model.
-Data Source	        Amazon_global_superstore_2016.xlsx               The raw data source used for the analysis.
-Styling	                Custom Theme / Dark/Clean Aesthetic	         Utilizing a professional and clean design for high readability.
+Component	        Tool / Language	                                     Purpose
+Data Visualization	Power BI Desktop	                             The primary tool used for report design, visual creation, and publishing.
+Data Manipulation	DAX (Data Analysis Expressions)	                     Used for creating complex metrics, measures, and calculated fields within the data model.
+Data Source	        Amazon_global_superstore_2016.xlsx                   The raw data source used for the analysis.
+Styling	                Custom Theme / Dark/Clean Aesthetic	             Utilizing a professional and clean design for high readability.
 		
 		
 🔑 How to View the Dashboard
