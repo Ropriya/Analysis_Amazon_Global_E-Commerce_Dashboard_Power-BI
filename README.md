@@ -1,5 +1,7 @@
 📊 Amazon Global E-commerce Performance Dashboard
-Project Overview
+
+Project Overview:-
+
 This repository contains an interactive dashboard built with Power BI that analyzes Amazon's global e-commerce performance.
 The goal is to provide deep, actionable insights into sales trends, customer behavior, geographic performance, and product category effectiveness.
 
