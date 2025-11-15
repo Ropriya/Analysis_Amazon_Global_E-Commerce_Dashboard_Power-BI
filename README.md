@@ -14,16 +14,18 @@ The dashboard is structured to facilitate detailed exploration across several cr
 •	Total Revenue & Year-over-Year (YoY) Growth: Tracks financial health and expansion pace.
 •	Sales Trend: Monthly/Quarterly breakdown of revenue to identify seasonality and growth cycles.
 •	Profitability: Analysis of gross margin and net profit by region and product.
-2. Geographic Performance
-•	Country/Region Comparison: Visualizations (likely map-based, as suggested by the complexity of the screenshot) comparing sales volume and customer count across different countries.
+
+3. Geographic Performance
+•	Country/Region Comparison: Visualizations (likely map-based, as suggested by the complexity of the screenshot) comparing sales volume and customer count across different                countries.
 •	Fulfillment Efficiency: Metrics tracking the speed and cost of logistics, including shipping costs and regional delivery times.
 
-3. Customer & Product Insights
+4. Customer & Product Insights
 •	Top Products/Categories: Identifying the best-selling and most profitable items.
 •	Customer Segmentation: Analyzing repeat vs. new customer acquisition rates.
 •	Rating & Review Sentiment: Using text or aggregated data to understand product satisfaction.
 
 🛠️ Tools and Technologies
+
 Component	        Tool / Language	                                     Purpose
 Data Visualization	Power BI Desktop	                             The primary tool used for report design, visual creation, and publishing.
 Data Manipulation	DAX (Data Analysis Expressions)	                     Used for creating complex metrics, measures, and calculated fields within the data model.
